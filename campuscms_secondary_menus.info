@@ -1,0 +1,4 @@
+core = 7.x
+name = CampusCMS Secondary Menus
+description = Configures menu block to add a secondary menus section.
+dependencies[] = menu_block
